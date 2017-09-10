@@ -12,5 +12,5 @@ deploy:
   provider: firebase
   skip_cleanup: true
   token:
-    secure: "1/NR5poUTm62Nv69QcyGsyX4Q-3so84u9zU8sDa2FL7Pc"
+    secure: "1/M19sATJsKOMGRPb6_35G060PDky-fQo3hSM0OWWPq8I"
   project: "production"
