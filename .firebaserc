@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "gblog-f47ee",
-    "production": "jsblog-15e68"
+    "default": "blacklotus-ow",
+    "production": "blacklotus-ow"
   }
 }

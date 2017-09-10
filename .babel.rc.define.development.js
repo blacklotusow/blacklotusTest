@@ -2,11 +2,11 @@ module.exports = {
   DEBUG: true,
   'process.env.NODE_ENV': 'development',
   'process.env.FIREBASE_CONFIG': JSON.stringify({
-    apiKey: 'AIzaSyAn9hulrfDCwhzu66Mb6hJIbP9Z2TSo1T8',
-    authDomain: 'gblog-f47ee.firebaseapp.com',
-    databaseURL: 'https://gblog-f47ee.firebaseio.com',
-    projectId: 'gblog-f47ee',
-    storageBucket: 'gblog-f47ee.appspot.com',
+    apiKey: 'AIzaSyCPn5rtoTVV8YHhJec2jGYy1SVzX4pHoDI',
+    authDomain: 'blacklotus-ow.firebaseapp.com',
+    databaseURL: 'https://blacklotus-ow.firebaseio.com/',
+    projectId: 'blacklotus-ow',
+    storageBucket: 'blacklotus-ow.appspot.com',
     messagingSenderId: '298543710360',
   }),
   'process.env.SERVICE_ACCOUNT': JSON.stringify({
